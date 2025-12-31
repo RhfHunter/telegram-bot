@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.vscode/
+
+# Data files
+data/
+logs/
+backups/
+*.db
+*.sqlite
+*.json
+
+# Environment
+.env
+.env.local
+
+# Termux
+termux/
+.DS_Store
+Thumbs.db
